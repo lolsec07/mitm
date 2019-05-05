@@ -1,3 +1,5 @@
+#usr/etc/python3
+
 import os, sys, multiprocessing
 from scapy.all import *
 
